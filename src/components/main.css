@@ -1,0 +1,13 @@
+.main {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  flex-direction: column;
+  padding-top: 60px;
+  background-color: beige;
+}
+/* .bar {
+  background-color: blueviolet;
+  position: fixed;
+  top: 0;
+} */
